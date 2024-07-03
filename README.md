@@ -21,34 +21,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <img src="https://cdn.discordapp.com/attachments/1224502224437379274/1258116439110451322/printRFHEALTH.png?ex=6686dfbd&is=66858e3d&hm=38711f02a03317ff6e115a6cc01f26628bbe11b445bef2179b4e247959a5fb90&" height="500" alt="Logo">
@@ -80,11 +52,11 @@
 
 ### Installation
 
-2. Clonar o repositório
+1. Clonar o repositório
    ```sh
    git clone https://guiqsassi/Real-Fast-Health.git
    ```
-3. Instalar os pacotes
+2. Instalar os pacotes
    ```sh
    npm i 
    ```
